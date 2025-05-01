@@ -10,6 +10,3 @@ It includes 13 files, each containing parallel sentences between English and one
     - **PM_IndicSBERT_ipynb** :
     - **PM_MPNet_Translations_ipynb** :
 
-#### TO-DOs :
-
-    - Add the data-preprocessing notebook
